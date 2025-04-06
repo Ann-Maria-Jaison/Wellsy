@@ -37,10 +37,10 @@ From late-night grinds to early morning existential crises, Wellsy is here to he
 
 - **📊 Wellness Dashboard** – See how you're *actually* doing
 ![Dashboard](public/Dashboard.png)
-![Dashboard](public/add_activity_dashboard.png)
+![Dashboard](public/addactivitydashboard.png)
 
 - **😴 Daily Tracking** – Mood, sleep, activity, stress (the full vibe check)
-![Dashboard](public/daily_tracking.png)
+![Dashboard](public/dailytracking.png)
 
 - **📈 Data Insights** – Visualize your progress like a boss
 ![Dashboard](public/insight.png)
