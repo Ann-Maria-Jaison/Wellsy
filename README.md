@@ -45,6 +45,10 @@ From late-night grinds to early morning existential crises, Wellsy is here to he
 - **📈 Data Insights** – Visualize your progress like a boss
 ![Dashboard](public/insight.png)
 
+- **🎮 Challenge Mode** - Gamified wellness with Mood Match, Stress Buster, and Word Search — learn to vibe check your feelings, chill smarter, and find peace one point at a time.
+![Dashboard](public/challenges.png)
+![Dashboard](public/challengejoining.png)
+
 - **📚 Resource Center** – Campus support & emergency info in one click
 ![Dashboard](public/resources.png)
 
