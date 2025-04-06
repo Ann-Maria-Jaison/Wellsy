@@ -65,8 +65,7 @@ npm run dev
 Let’s connect and talk about code, wellness, or memes:
 
 - 📧 annkochu1234@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/annmariajaison/])  
-- 📸 [Instagram](https://instagram.com/yourhandle)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/annmariajaison/)  
 
 ---
 
