@@ -1,90 +1,73 @@
-# 💚 Wellsy – Your Campus Wellness Bestie 🧠
+# 🌿 Wellsy – Because Mental Health Deserves a UI Too 🧠💻
 
-> *Helping students survive the semester, one mood check at a time.*
-
----
-
-## 👀 What is Wellsy?
-
-**Wellsy** is a full-stack wellness web app built for students who are balancing grades, clubs, caffeine, and occasional existential dread.  
-It lets you **track your mood, log your habits, de-stress with mini-games**, and get access to **mental & physical health resources** — all in one cozy lil' app.
-
-> TL;DR: It's like a digital hug for your brain, but make it tech.
+> *Built for students. Loved by serotonin. Backed by JavaScript.*
 
 ---
 
-## ⚙️ Tech Stack (a.k.a. The Brains Behind the Beauty)
+## 👋 What is Wellsy?
 
-| Frontend 🔮 | Backend 🔧 |
-|------------|------------|
-| React.js 🌀 | Node.js 🧠 |
-| Next.js ⚡ | Express.js 🚀 |
-| Tailwind CSS 🎨 | MongoDB 🍃 |
-| Axios 📡 | JWT Auth 🛡️ |
+**Wellsy** is your digital wellness sidekick for campus life.  
+It’s a web app where students can **track moods, log habits, reflect, de-stress, and actually breathe** — all from a clean, no-judgment zone.  
 
----
+From late-night grinds to early morning existential crises, Wellsy is here to help you manage it all without burning out your brain or your browser.
 
-## 🌟 Core Features
-
-- **📊 Wellness Dashboard**  
-  Your one-stop shop to see how you’re doing (no sugarcoating, just stats)
-
-- **📝 Daily Tracking**  
-  Log your mood, sleep, stress, and activity with vibes only
-
-- **📈 Insights & Progress**  
-  Charts and trends that are actually *kinda satisfying* to look at
-
-- **📚 Resources Page**  
-  Campus mental/physical wellness info, emergency contacts, and good vibes
-
-- **🎮 Mini-Games**  
-  - *Mood Match* – Emotions + memory = healing  
-  - *Stress Buster* – Chill quiz to get your cortisol down  
-  - *Wellness Word Search* – Find peace, one letter at a time
-
-- **🔐 Authentication**  
-  Secure login/logout. Protected routes. No drama.
+> Think of it like a habit tracker + therapy dog + mini-game arcade. But online. And coded with love.
 
 ---
 
-## 🧠 Why Build Wellsy?
+## 🔧 Tech Stack (a.k.a. What’s cooking under the hood)
 
-Because students are expected to “have it all together” while running on coffee and 4 hours of sleep.  
-**Wellsy** is here to remind you that it’s okay to pause, reflect, and take care of yourself — and do it in style.
+**Frontend:**
+- ⚛️ **React.js** – Dynamic user interfaces  
+- ⚡ **Next.js** – Fast routing & server-side goodness  
+- 🎨 **Tailwind CSS** – Styling but make it ✨aesthetic✨  
+- 📡 **Axios** – Smooth API calls, no drama
 
-> Built by students, for students. With love, code, and way too many browser tabs open.
+**Backend:**
+- 🧠 **Node.js** – JavaScript everywhere  
+- 🚀 **Express.js** – Makes routing a breeze  
+- 🛡️ **JWT Auth** – Secure login/logout, no cap
+
+**Database:**
+- 🍃 **MongoDB** – Stores all your wellness data safely
 
 ---
 
-## 🚀 Getting Started
+## 🌟 Features That Slap
 
-Wanna run it locally and vibe with it?
+- **📊 Wellness Dashboard** – See how you're *actually* doing
+- **😴 Daily Tracking** – Mood, sleep, activity, stress (the full vibe check)
+- **📈 Data Insights** – Visualize your progress like a boss
+- **📚 Resource Center** – Campus support & emergency info in one click
+- **🎮 Wellness Mini-Games** – Chill your brain with fun, mindful games
+- **🔐 Secure Auth** – You, and only you, get access to your data
+
+---
+
+## 🧪 Try It Yourself
 
 ```bash
-# Clone the repo
+# 1. Clone the repo
 git clone https://github.com/your-username/wellsy.git
 
-# Move into the project
+# 2. Navigate inside
 cd wellsy
 
-# Install dependencies
+# 3. Install everything
 npm install
 
-# Start the development server
+# 4. Start the dev server
 npm run dev
 ```
- ## 🧩 Future Goals (aka The Glow Up Plan)
+## 👨‍💻 Made By
 
-🧘 Meditation audio player
+**Ann Maria Jaison** – Developer & mental health ally  
+Let’s connect and talk about code, wellness, or memes:
 
-🎯 Goal setting & habit reminders
+- 📧 annkochu1234@gmail.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/annmariajaison/])  
+- 📸 [Instagram](https://instagram.com/yourhandle)  
 
-🧑‍🤝‍🧑 Social accountability circles
+---
 
-🌐 Multi-language support
-
-📱 Mobile-first redesign (iOS/Android in the dream journal)
-
-
-## “Take care of yourself. You’re literally the main character.” – Wellsy 💚
+> _"If your brain had a dashboard, this would be it." – Wellsy 💚_
