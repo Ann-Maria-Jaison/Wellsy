@@ -39,8 +39,14 @@ From late-night grinds to early morning existential crises, Wellsy is here to he
 ![Dashboard](public/Dashboard.png)
 
 - **😴 Daily Tracking** – Mood, sleep, activity, stress (the full vibe check)
+![Dashboard](public/Dashboard.png)
+
 - **📈 Data Insights** – Visualize your progress like a boss
+![Dashboard](public/Dashboard.png)
+
 - **📚 Resource Center** – Campus support & emergency info in one click
+![Dashboard](public/Dashboard.png)
+
 - **🔐 Secure Auth** – You, and only you, get access to your data
 
 ---
