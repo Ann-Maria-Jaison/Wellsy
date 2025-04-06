@@ -36,7 +36,7 @@ From late-night grinds to early morning existential crises, Wellsy is here to he
 ## 🌟 Features That Slap
 
 - **📊 Wellness Dashboard** – See how you're *actually* doing
-![Alt Text](path/to/image.png)
+![Dashboard](public/Dashboard.png)
 
 - **😴 Daily Tracking** – Mood, sleep, activity, stress (the full vibe check)
 - **📈 Data Insights** – Visualize your progress like a boss
