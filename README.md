@@ -37,6 +37,7 @@ From late-night grinds to early morning existential crises, Wellsy is here to he
 
 - **📊 Wellness Dashboard** – See how you're *actually* doing
 ![Dashboard](public/Dashboard.png)
+- **Add your new activity**
 ![Dashboard](public/addactivitydashboard.png)
 
 - **😴 Daily Tracking** – Mood, sleep, activity, stress (the full vibe check)
@@ -47,6 +48,7 @@ From late-night grinds to early morning existential crises, Wellsy is here to he
 
 - **🎮 Challenge Mode** - Gamified wellness with Mood Match, Stress Buster, and Word Search — learn to vibe check your feelings, chill smarter, and find peace one point at a time.
 ![Dashboard](public/challenges.png)
+- **Join for a challenge**
 ![Dashboard](public/challengejoining.png)
 
 - **📚 Resource Center** – Campus support & emergency info in one click
