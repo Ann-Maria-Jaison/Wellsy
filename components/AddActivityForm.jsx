@@ -6,7 +6,7 @@ const AddActivityForm = ({ onSubmit, onClose }) => {
     hours: '',
     mood: 3,
     notes: ''
-  }); 
+  });
 
   const handleSubmit = (e) => {
     e.preventDefault();
